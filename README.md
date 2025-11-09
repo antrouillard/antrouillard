@@ -1,10 +1,10 @@
 # Antoine ROUILLARD 
 ## Hello and welcome on my profile 😀
 
-💼Apprentice at ST-Microelectronics LE MANS.
-🎓Currently studying at INSA Hauts-de-France.
-🎭Liquipedia editor for SUPERVIVE competitive scene.
-✨Curious, always looking to learn and improve my skills.
+💼Apprentice at <strong>ST-Microelectronics LE MANS</strong>.  <br>
+🎓Currently studying at <strong>INSA Hauts-de-France</strong>. <br>
+🎭Liquipedia editor for <strong>SUPERVIVE competitive scene</strong>. <br>
+✨Curious, always looking to learn and improve my skills. <br>
 
 
 
